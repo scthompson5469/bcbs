@@ -1,0 +1,9 @@
+{
+  "EnvironmentVariables": [],
+  "ConnectionReferences": [
+    {
+      "LogicalName": "msdyn_Dataverse",
+      "ConnectionId": "shared-commondataser-cc1f9501-6498-4a83-b3cc-6babe2a05ed8"
+    }
+  ]
+}
